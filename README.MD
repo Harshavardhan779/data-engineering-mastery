@@ -33,14 +33,11 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 
 ## 📊 Daily Progress Log
 
-| Day | Date | Focus Topic | Key Task/Project | DSA Problem (Java) |
-| :--- | :--- | :--- | :--- | :--- |
-| **01** | Dec 08 | **Setup** | Python Venv + Git Setup | Filter Even/Odd (Arrays) |
-| **02** | Dec 09 | **Pandas** | SQL vs Pandas: Filtering Data | Reverse Array (Two Pointers) |
-| **03** | Dec 10 | *Planned* | *API Data Integration* | *Planned* |
-
-*(This log is updated daily to track consistency).*
-
+| Day | Date | Focus Topic | Key Task/Project | DSA Problem (Java) | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **01** | Dec 08 | **Setup** | Python Venv + Git Setup | Filter Even/Odd (Arrays) | ✅ Done |
+| **02** | Dec 09 | **Pandas** | SQL vs Pandas: Filtering | Reverse Array (Two Pointers) | ✅ Done |
+| **03** | Dec 10 | **API** | Live Currency Extraction | String Palindrome | ⏳ Pending |
 ---
 
 ## 📫 Connect

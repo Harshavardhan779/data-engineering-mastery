@@ -14,7 +14,7 @@ if response.status_code==200:
     df['load_timestamp']=datetime.now()
     print('Preview of data')
     print(df.head())
-    df.to_csv('real_time_rates',index=False)
+    df.to_csv('real_time_rates.csv',index=False)
     print("data saved to the real_time_csv_file")
 else:
     print(f"Got error in connection{response.status_code}")    

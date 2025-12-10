@@ -1,0 +1,832 @@
+[
+    {
+        "currency":"USD",
+        "rates":1.0,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"AED",
+        "rates":3.6725,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"AFN",
+        "rates":65.660804,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ALL",
+        "rates":82.877607,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"AMD",
+        "rates":381.675523,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ANG",
+        "rates":1.79,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"AOA",
+        "rates":923.182921,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ARS",
+        "rates":1438.58,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"AUD",
+        "rates":1.508638,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"AWG",
+        "rates":1.79,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"AZN",
+        "rates":1.699752,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BAM",
+        "rates":1.679691,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BBD",
+        "rates":2.0,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BDT",
+        "rates":122.253636,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BGN",
+        "rates":1.679518,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BHD",
+        "rates":0.376,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BIF",
+        "rates":2966.855946,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BMD",
+        "rates":1.0,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BND",
+        "rates":1.297155,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BOB",
+        "rates":6.913461,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BRL",
+        "rates":5.427703,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BSD",
+        "rates":1.0,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BTN",
+        "rates":90.169251,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BWP",
+        "rates":13.818242,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BYN",
+        "rates":2.872727,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"BZD",
+        "rates":2.0,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CAD",
+        "rates":1.383903,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CDF",
+        "rates":2235.736698,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CHF",
+        "rates":0.806263,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CLF",
+        "rates":0.023366,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CLP",
+        "rates":923.555287,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CNH",
+        "rates":7.069808,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CNY",
+        "rates":7.077939,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"COP",
+        "rates":3834.901235,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CRC",
+        "rates":488.191356,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CUP",
+        "rates":24.0,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CVE",
+        "rates":94.696971,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"CZK",
+        "rates":20.832834,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"DJF",
+        "rates":177.721,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"DKK",
+        "rates":6.407371,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"DOP",
+        "rates":63.77798,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"DZD",
+        "rates":130.048187,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"EGP",
+        "rates":47.494299,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ERN",
+        "rates":15.0,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ETB",
+        "rates":154.102373,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"EUR",
+        "rates":0.858813,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"FJD",
+        "rates":2.25767,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"FKP",
+        "rates":0.750632,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"FOK",
+        "rates":6.407655,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"GBP",
+        "rates":0.750635,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"GEL",
+        "rates":2.699515,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"GGP",
+        "rates":0.750632,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"GHS",
+        "rates":11.646838,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"GIP",
+        "rates":0.750632,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"GMD",
+        "rates":74.201406,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"GNF",
+        "rates":8710.165722,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"GTQ",
+        "rates":7.65438,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"GYD",
+        "rates":209.209598,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"HKD",
+        "rates":7.78052,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"HNL",
+        "rates":26.311048,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"HRK",
+        "rates":6.470724,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"HTG",
+        "rates":130.806412,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"HUF",
+        "rates":329.567362,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"IDR",
+        "rates":16689.07477,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ILS",
+        "rates":3.219259,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"IMP",
+        "rates":0.750632,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"INR",
+        "rates":90.169599,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"IQD",
+        "rates":1311.735789,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"IRR",
+        "rates":42454.944067,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ISK",
+        "rates":127.846381,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"JEP",
+        "rates":0.750632,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"JMD",
+        "rates":160.145932,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"JOD",
+        "rates":0.709,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"JPY",
+        "rates":155.734896,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"KES",
+        "rates":129.235887,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"KGS",
+        "rates":87.34923,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"KHR",
+        "rates":4021.050874,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"KID",
+        "rates":1.508391,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"KMF",
+        "rates":422.508103,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"KRW",
+        "rates":1467.77088,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"KWD",
+        "rates":0.306838,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"KYD",
+        "rates":0.833333,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"KZT",
+        "rates":510.473349,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"LAK",
+        "rates":21715.302329,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"LBP",
+        "rates":89500.0,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"LKR",
+        "rates":308.385197,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"LRD",
+        "rates":176.617638,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"LSL",
+        "rates":17.01421,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"LYD",
+        "rates":5.436967,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MAD",
+        "rates":9.237408,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MDL",
+        "rates":16.98088,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MGA",
+        "rates":4479.701399,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MKD",
+        "rates":52.901854,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MMK",
+        "rates":2101.91884,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MNT",
+        "rates":3579.317301,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MOP",
+        "rates":8.013935,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MRU",
+        "rates":39.898353,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MUR",
+        "rates":46.075181,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MVR",
+        "rates":15.425041,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MWK",
+        "rates":1744.574001,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MXN",
+        "rates":18.23901,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MYR",
+        "rates":4.112522,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"MZN",
+        "rates":63.663028,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"NAD",
+        "rates":17.01421,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"NGN",
+        "rates":1450.02965,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"NIO",
+        "rates":36.785594,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"NOK",
+        "rates":10.123047,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"NPR",
+        "rates":144.270802,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"NZD",
+        "rates":1.731343,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"OMR",
+        "rates":0.384497,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"PAB",
+        "rates":1.0,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"PEN",
+        "rates":3.361786,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"PGK",
+        "rates":4.238002,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"PHP",
+        "rates":59.137626,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"PKR",
+        "rates":282.312087,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"PLN",
+        "rates":3.636401,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"PYG",
+        "rates":6945.064851,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"QAR",
+        "rates":3.64,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"RON",
+        "rates":4.368407,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"RSD",
+        "rates":100.767041,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"RUB",
+        "rates":76.577468,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"RWF",
+        "rates":1460.408745,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SAR",
+        "rates":3.75,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SBD",
+        "rates":8.105185,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SCR",
+        "rates":14.29546,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SDG",
+        "rates":454.095881,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SEK",
+        "rates":9.399581,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SGD",
+        "rates":1.297156,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SHP",
+        "rates":0.750632,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SLE",
+        "rates":22.962824,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SLL",
+        "rates":22962.824336,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SOS",
+        "rates":570.261581,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SRD",
+        "rates":38.595494,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SSP",
+        "rates":4717.143896,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"STN",
+        "rates":21.040909,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SYP",
+        "rates":11004.677894,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"SZL",
+        "rates":17.01421,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"THB",
+        "rates":31.875994,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"TJS",
+        "rates":9.279799,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"TMT",
+        "rates":3.500024,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"TND",
+        "rates":2.932241,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"TOP",
+        "rates":2.412995,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"TRY",
+        "rates":42.617576,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"TTD",
+        "rates":6.74301,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"TVD",
+        "rates":1.508391,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"TWD",
+        "rates":31.174697,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"TZS",
+        "rates":2442.535677,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"UAH",
+        "rates":42.07533,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"UGX",
+        "rates":3539.072086,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"UYU",
+        "rates":39.078085,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"UZS",
+        "rates":12046.690416,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"VES",
+        "rates":257.9287,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"VND",
+        "rates":26254.122142,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"VUV",
+        "rates":121.633637,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"WST",
+        "rates":2.757602,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"XAF",
+        "rates":563.344137,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"XCD",
+        "rates":2.7,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"XCG",
+        "rates":1.79,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"XDR",
+        "rates":0.731362,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"XOF",
+        "rates":563.344137,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"XPF",
+        "rates":102.483825,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"YER",
+        "rates":238.394226,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ZAR",
+        "rates":17.012981,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ZMW",
+        "rates":23.149975,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ZWG",
+        "rates":26.1122,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    },
+    {
+        "currency":"ZWL",
+        "rates":26.1122,
+        "load_timestamp":"2025-12-09 19:29:47.238534"
+    }
+]

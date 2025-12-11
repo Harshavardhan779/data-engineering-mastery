@@ -1,0 +1,5 @@
+customer_id,name,age,city,purchase_amount
+101,Harsha,25.0,Hyd,1000.0
+102,Alex,30.0,Bangalore,2500.0
+104,Priya,26.25,Chennai,500.0
+105,Sam,28.0,Unknown,1200.0

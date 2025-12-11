@@ -33,16 +33,16 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 
 ## 📊 Daily Progress Log
 
-| Day | Date | Focus Topic | Key Task/Project | DSA Problem (Java) | Status |
+## 📊 Daily Progress Log
+
+| Day | Date | Focus Topic | Key Task/Project | DSA Challenge (LeetCode) | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **01** | Dec 08 | **Setup** | Python Venv + Git Setup | Filter Even/Odd (Arrays) | ✅ Done |
-| **02** | Dec 09 | **Pandas** | SQL vs Pandas: Filtering | Reverse Array (Two Pointers) | ✅ Done |
-| **03** | Dec 10 | **API** | Live Currency Extraction | String Palindrome | ✅ Done |
-| **04** | Dec 11 | **Formats** | JSON vs Parquet | Valid Anagram (HashMap) | ✅ Done |
-| Day | Focus | Key Task | DSA (LeetCode) | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **05** | Cleaning | Auto-Clean Script | [Two Sum (Easy)](https://leetcode.com/problems/two-sum/) | ✅ Done |
-| **06** | Logic | Employee Bonus Calc | [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/) | ⏳ Pending |
+| **01** | Dec 08 | **Setup** | Python Venv + Git Setup | Filter Even/Odd (Basic) | ✅ Done |
+| **02** | Dec 09 | **Pandas** | SQL vs Pandas: Filtering | [Reverse String/Array](https://leetcode.com/problems/reverse-string/) | ✅ Done |
+| **03** | Dec 10 | **API** | Live Currency Extraction | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Done |
+| **04** | Dec 11 | **Formats** | JSON vs Parquet | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Done |
+| **05** | Dec 12 | **Cleaning** | Auto-Clean NULLs/Dupes | [Two Sum (Easy)](https://leetcode.com/problems/two-sum/) | ✅ Done |
+| **06** | Dec 13 | **Logic** | Employee Bonus Calculator | [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/) | ⏳ Pending |
 ---
 
 ## 📫 Connect

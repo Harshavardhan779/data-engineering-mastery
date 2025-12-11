@@ -44,6 +44,6 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **05** | Dec 12 | **Cleaning** | Auto-Clean NULLs/Dupes | [Two Sum (Easy)](https://leetcode.com/problems/two-sum/) | ✅ Done |
 | **06** | Dec 13 | **Logic** | Employee Bonus Calculator | [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/) | ⏳ Pending |
 ---
-
+will update daily
 ## 📫 Connect
 [LinkedIn](www.linkedin.com/in/harshavardhan779) | [Email](harshavardhanbv779@gmail.com)

@@ -39,6 +39,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **02** | Dec 09 | **Pandas** | SQL vs Pandas: Filtering | Reverse Array (Two Pointers) | ✅ Done |
 | **03** | Dec 10 | **API** | Live Currency Extraction | String Palindrome | ✅ Done |
 | **04** | Dec 11 | **Formats** | JSON vs Parquet | Valid Anagram (HashMap) | ✅ Done |
+| **05** | Dec 12 | **Cleaning** | Auto-Clean NULLs/Duplicates | Two Sum (HashMap) | ✅ Done |
 ---
 
 ## 📫 Connect

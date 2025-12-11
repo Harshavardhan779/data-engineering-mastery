@@ -21,7 +21,7 @@ print(df.isnull().sum()) # Like SQL: SELECT COUNT(*) WHERE col IS NULL
 
 # 1. Remove Duplicates (Rows that are exactly the same)
 # SQL: SELECT DISTINCT *
-df_clean = df.drop_duplicates()
+df_clean=df.drop_duplicates()
 print(f"\n✅ Removed Duplicates. Rows reduced from {len(df)} to {len(df_clean)}")
 
 # 2. Handle Missing Numeric Data (Fill with Mean/Average)

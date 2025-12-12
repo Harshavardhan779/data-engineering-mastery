@@ -25,10 +25,10 @@ def cal_bonus(row):
     salary=row['Salary']
     if dept=="IT" and rate>4.5:
         return salary*0.1
-    elif dept=='sales' and rate>4.0:
+    elif dept=='Sales' and rate>4.0:
         return salary*0.15
     else:
-        return salary*0.5
+        return salary*0.05
 print("\n⚙️ Calculating Bonuses...")    
 df['Bonus']=df.apply(cal_bonus,axis=1)
 df['Total_comp']=df['Bonus'] +df['Salary']  

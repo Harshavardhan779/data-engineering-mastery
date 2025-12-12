@@ -42,7 +42,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **03** | Dec 10 | **API** | Live Currency Extraction | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Done |
 | **04** | Dec 11 | **Formats** | JSON vs Parquet | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Done |
 | **05** | Dec 12 | **Cleaning** | Auto-Clean NULLs/Dupes | [Two Sum (Easy)](https://leetcode.com/problems/two-sum/) | ✅ Done |
-| **06** | Dec 13 | **Logic** | Employee Bonus Calculator | [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/) | ⏳ Pending |
+| **06** | Dec 13 | **Logic** | Employee Bonus Calculator | [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/) |  ✅ Done |
 ---
 will update daily
 ## 📫 Connect

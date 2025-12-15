@@ -44,6 +44,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **05** | Dec 12 | **Cleaning** | Auto-Clean NULLs/Dupes | [Two Sum (Easy)](https://leetcode.com/problems/two-sum/) | ✅ Done |
 | **06** | Dec 13 | **Logic** | Employee Bonus Calculator | [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/) |  ✅ Done |
 | **07** | Dec 13 | **Grind** | `requirements.txt` Setup | 1. [Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>2. [Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)<br>3. [Majority](https://leetcode.com/problems/majority-element/) | ✅ Done |
+| **08** | Dec 15 | **SQL + Python** | SQLite Integration | 1. [Merge Sorted](https://leetcode.com/problems/merge-sorted-array/)<br>2. [Remove Elem](https://leetcode.com/problems/remove-element/)<br>3. [Remove Dupes](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

@@ -47,6 +47,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **08** | Dec 15 | **SQL + Python** | SQLite Integration | 1. [Merge Sorted](https://leetcode.com/problems/merge-sorted-array/)<br>2. [Remove Elem](https://leetcode.com/problems/remove-element/)<br>3. [Remove Dupes](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Done |
 | **10** | Dec 17 | **Data Warehousing** | Star Schema Design | 1. [Sort Colors (DNF)](https://leetcode.com/problems/sort-colors/)<br>2. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ Done |
 | **11** | Dec 18 | **Optimization** | SQL Indexing & B-Trees | 1. [Max Subarray (Kadane)](https://leetcode.com/problems/maximum-subarray/)<br>2. [Rearrange by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | ✅ Done |
+| **12** | Dec 19 | **NoSQL & Patterns** | JSON Data Store | 1. [Next Permutation](https://leetcode.com/problems/next-permutation/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

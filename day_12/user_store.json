@@ -1,0 +1,28 @@
+[
+    {
+        "id": 101,
+        "name": "Harsha",
+        "role": "Data Engineer",
+        "skills": [
+            "Python",
+            "SQL",
+            "Java"
+        ],
+        "address": {
+            "city": "Hyderabad",
+            "zip": "500081"
+        },
+        "active": true
+    },
+    {
+        "id": 102,
+        "name": "Alice",
+        "role": "Data Scientist",
+        "skills": [
+            "R",
+            "Python",
+            "Tableau"
+        ],
+        "active": false
+    }
+]

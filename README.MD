@@ -50,6 +50,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **12** | Dec 19 | **NoSQL & Patterns** | JSON Data Store | 1. [Next Permutation](https://leetcode.com/problems/next-permutation/) | ✅ Done |
 | **13** | Dec 20 | **ETL & Hashing** | Extract-Transform-Load Pipeline | 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ Done s|
 | **14** | Dec 22 | **Phase 2 Finale** | Project Organization & Review | 1. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)<br>2. [Leaders in Array](https://www.geeksforgeeks.org/leaders-in-an-array/) | ✅ Done |
+| **15** | Dec 23 | **Orchestration** | Python Job Scheduler | 1. [Rotate Image](https://leetcode.com/problems/rotate-image/)<br>2. [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

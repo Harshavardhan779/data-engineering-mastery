@@ -52,6 +52,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **14** | Dec 22 | **Phase 2 Finale** | Project Organization & Review | 1. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)<br>2. [Leaders in Array](https://www.geeksforgeeks.org/leaders-in-an-array/) | ✅ Done |
 | **15** | Dec 23 | **Orchestration** | Python Job Scheduler | 1. [Rotate Image](https://leetcode.com/problems/rotate-image/)<br>2. [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ Done |
 | **16** | Dec 24 | **Connectivity** | Python REST APIs | 1. [Binary Search](https://leetcode.com/problems/binary-search/)<br>2. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ✅ Done |
+| **17** | Dec 25 | **Scraping** | Web Scraping (BeautifulSoup) | 1. [First & Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

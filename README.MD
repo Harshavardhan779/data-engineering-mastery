@@ -53,6 +53,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **15** | Dec 23 | **Orchestration** | Python Job Scheduler | 1. [Rotate Image](https://leetcode.com/problems/rotate-image/)<br>2. [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ Done |
 | **16** | Dec 24 | **Connectivity** | Python REST APIs | 1. [Binary Search](https://leetcode.com/problems/binary-search/)<br>2. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ✅ Done |
 | **17** | Dec 25 | **Scraping** | Web Scraping (BeautifulSoup) | 1. [First & Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ✅ Done |
+| **18** | Dec 26 | **Cloud Storage** | S3 Data Lake Simulation | 1. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

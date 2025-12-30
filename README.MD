@@ -56,6 +56,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **18** | Dec 26 | **Cloud Storage** | S3 Data Lake Simulation | 1. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | ✅ Done |break
 | **19** | Dec 27 | **DuckDB** | In-Memory SQL Analytics | 1. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ✅ Done |
 | **20** | Dec 29 | **Containers** | Dockerfile Setup | 1. [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/0) | ✅ Done |
+| **21** | Dec 30 | **Views** | DuckDB Views | 1. [Book Allocation](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

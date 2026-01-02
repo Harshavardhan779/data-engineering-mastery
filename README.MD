@@ -59,6 +59,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **21** | Dec 30 | **Views** | DuckDB Views | 1. [Book Allocation](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | ✅ Done |
 | **22** | Dec 31 | **CTEs** | SQL WITH Clause | 1. [Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | ✅ Done |
 | **23** | Jan 01 | **Ranking** | SQL Window Functions | 1. [Kth Missing Number](https://leetcode.com/problems/kth-missing-positive-number/) | ✅ Done |
+| **24** | Jan 02 | **LAG** | SQL Previous Value | 1. [Row with Max 1s](https://leetcode.com/problems/row-with-maximum-ones/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

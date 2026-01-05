@@ -62,6 +62,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **24** | Jan 02 | **LAG** | SQL Previous Value | 1. [Row with Max 1s](https://leetcode.com/problems/row-with-maximum-ones/) | ✅ Done |
 | **25** | Jan 03 | **Running Total** | SQL Cumulative Sum | 1. [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ✅ Done |
 | **26** | Jan 04 | **QUALIFY** | Filtering Window Funcs | 1. [Search 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | ✅ Done |
+| **27** | Jan 05 | **Pivot** | SQL Pivot Tables | 1. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

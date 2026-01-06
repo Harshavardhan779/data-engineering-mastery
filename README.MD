@@ -63,6 +63,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **25** | Jan 03 | **Running Total** | SQL Cumulative Sum | 1. [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ✅ Done |
 | **26** | Jan 04 | **QUALIFY** | Filtering Window Funcs | 1. [Search 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | ✅ Done |
 | **27** | Jan 05 | **Pivot** | SQL Pivot Tables | 1. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | ✅ Done |
+| **28** | Jan 06 | **Rotated & Self Joins** | BS on Rotated Array + SQL Self Joins | 1. [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

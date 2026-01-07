@@ -12,7 +12,7 @@ con.execute("INSERT INTO colors VALUES ('Red'), ('Blue')")
 print("🛠️ Generating All Possible Products (Cross Join)...")
 
 # The Query:
-# No "ON" condition. Just comma-separated tables.
+# No "ON" condition. Just comma-separated tables.!
 query = """
     SELECT 
         s.size, 

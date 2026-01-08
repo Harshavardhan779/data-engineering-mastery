@@ -11,7 +11,7 @@ print("🛠️ Cleaning Messy Emails...")
 # The Query:
 # 1. TRIM removes the spaces around John's email.
 # 2. LOWER converts everything to lowercase.
-# 3. SPLIT_PART extracts the domain (everything after @).
+# 3. SPLIT_PART extracts the domain (everything after @).!
 query = """
     SELECT 
         email as Original,

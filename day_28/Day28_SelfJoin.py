@@ -17,7 +17,7 @@ con.execute("""
 
 print("🛠️ Analyzing Hierarchy: Who earns more than their boss?")
 
-# 2. The Logic: Join the table to ITSELF
+# 2. The Logic: Join the table to ITSELF .
 # We treat one copy as 'Worker' (e) and one copy as 'Boss' (m)
 query = """
     SELECT 

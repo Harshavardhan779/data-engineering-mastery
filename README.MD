@@ -67,6 +67,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **29** | Jan 07 | **Cross Join** | SQL Cartesian Product | 1. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | ✅ Done |
 | **30** | Jan 08 | **String Cleaning** | SQL Lower/Trim | 1. [Reverse String](https://leetcode.com/problems/reverse-string/) | ✅ Done |
 | **31** | Jan 10 | **Patterns** | Regex Pattern Matching | 1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Done |
+| **32** | Jan 11 | **Frequencies** | SQL Aggregations (GROUP BY) | 1. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

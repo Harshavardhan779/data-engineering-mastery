@@ -69,6 +69,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **31** | Jan 10 | **Patterns** | Regex Pattern Matching | 1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Done |
 | **32** | Jan 11 | **Frequencies** | SQL Aggregations (GROUP BY) | 1. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Done |
 | **33** | Jan 12 | **Filtering Groups** | SQL HAVING Clause | 1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ Done |
+| **34** | Jan 13 | **Sliding Window** | SQL Moving Averages | 1. [Max Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

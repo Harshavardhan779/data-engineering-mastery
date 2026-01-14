@@ -70,6 +70,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **32** | Jan 11 | **Frequencies** | SQL Aggregations (GROUP BY) | 1. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Done |
 | **33** | Jan 12 | **Filtering Groups** | SQL HAVING Clause | 1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ Done |
 | **34** | Jan 13 | **Sliding Window** | SQL Moving Averages | 1. [Max Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | ✅ Done |
+| **35** | Jan 14 | **Logic Windows** | SQL CASE Statements | 1. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

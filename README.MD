@@ -72,6 +72,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **34** | Jan 13 | **Sliding Window** | SQL Moving Averages | 1. [Max Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | ✅ Done |
 | **35** | Jan 14 | **Logic Windows** | SQL CASE Statements | 1. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | ✅ Done |
 | **36** | Jan 16 | **Defaults** | SQL COALESCE | 1. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ Done |
+| **37** | Jan 17 | **Set Operations** | UNION vs UNION ALL | 1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

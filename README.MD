@@ -75,6 +75,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **37** | Jan 17 | **Set Operations** | UNION vs UNION ALL | 1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ Done |
 | **38** | Jan 18 | **Set Math** | INTERSECT & EXCEPT | 1. [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | ✅ Done |
 | **39** | Jan 19 | **Pointers** | JSON Parsing | 1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ Done |
+| **40** | Jan 20 | **Cycles & Arrays** | JSON Unnesting | 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

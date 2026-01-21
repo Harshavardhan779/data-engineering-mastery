@@ -76,7 +76,8 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **38** | Jan 18 | **Set Math** | INTERSECT & EXCEPT | 1. [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | ✅ Done |
 | **39** | Jan 19 | **Pointers** | JSON Parsing | 1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ Done |
 | **40** | Jan 20 | **Cycles & Arrays** | JSON Unnesting | 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ✅ Done |
-leave--break
+| **41** | Jan 21 | **Merging** | SQL INNER JOIN | 1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ✅ Done |
+
 ---
 will update daily
 ## 📫 Connect

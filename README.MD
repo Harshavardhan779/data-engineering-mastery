@@ -78,7 +78,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **40** | Jan 20 | **Cycles & Arrays** | JSON Unnesting | 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ✅ Done |
 | **41** | Jan 21 | **Merging** | SQL INNER JOIN | 1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ✅ Done |
 | **42** | Jan 22 | **Cleanups** | SQL LEFT JOIN | 1. [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | ✅ Done |
-
+| **43** | Jan 23 | **The Center** | SQL CROSS JOIN | 1. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

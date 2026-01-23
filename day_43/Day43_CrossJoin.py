@@ -13,7 +13,7 @@ con.execute("INSERT INTO colors VALUES ('Red'), ('Blue')")
 print("🛠️ Generating Inventory Variants (CROSS JOIN)...")
 
 # The Query:
-# No "ON" condition. Just join them.
+# No "ON" condition. Just join them.!
 query = """
     SELECT 
         size,

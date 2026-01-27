@@ -82,6 +82,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **44** | Jan 24 | **Reflections** | SQL SELF JOIN | 1. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | ✅ Done |
 | **45** | Jan 25 | **Sniper Method** | GROUP BY & HAVING | 1. [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ✅ Done |
 | **46** | Jan 26 | **Stacks & Ranks** | SQL Window Functions (Rank) | 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Done |
+| **47** | Jan 27 | **Smart Stacks** | SQL PARTITION BY | 1. [Min Stack](https://leetcode.com/problems/min-stack/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

@@ -83,6 +83,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **45** | Jan 25 | **Sniper Method** | GROUP BY & HAVING | 1. [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ✅ Done |
 | **46** | Jan 26 | **Stacks & Ranks** | SQL Window Functions (Rank) | 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Done |
 | **47** | Jan 27 | **Smart Stacks** | SQL PARTITION BY | 1. [Min Stack](https://leetcode.com/problems/min-stack/) | ✅ Done |
+| **48** | Jan 28 | **Calculators** | SQL LAG & LEAD | 1. [Evaluate RPN](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

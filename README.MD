@@ -84,6 +84,8 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **46** | Jan 26 | **Stacks & Ranks** | SQL Window Functions (Rank) | 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Done |
 | **47** | Jan 27 | **Smart Stacks** | SQL PARTITION BY | 1. [Min Stack](https://leetcode.com/problems/min-stack/) | ✅ Done |
 | **48** | Jan 28 | **Calculators** | SQL LAG & LEAD | 1. [Evaluate RPN](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ Done |
+| **49** | Jan 29 | **Inversions** | SQL Running Totals | 1. [Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | ✅ Done |
+
 ---
 will update daily
 ## 📫 Connect

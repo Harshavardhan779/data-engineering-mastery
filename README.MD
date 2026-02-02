@@ -87,6 +87,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **49** | Jan 29 | **Inversions** | SQL Running Totals | 1. [Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | ✅ Done |
 | **50** | Jan 30 | **Halfway Mark** | SQL Moving Averages | 1. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ✅ Done |
 | **51** | Feb 01 | **The Deque** | SQL NTILE (Bucketing) | 1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ✅ Done |
+| **52** | Feb 02 | **Grouping** | SQL CTEs (WITH Clause) | 1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ Done |
 
 ---
 will update daily

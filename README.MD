@@ -89,6 +89,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **51** | Feb 01 | **The Deque** | SQL NTILE (Bucketing) | 1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ✅ Done |
 | **52** | Feb 02 | **Grouping** | SQL CTEs (WITH Clause) | 1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ Done |
 | **53** | Feb 03 | **The Heap** | SQL Recursive CTE | 1. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ✅ Done |
+| **54** | Feb 04 | **The Mirror** | SQL PIVOT | 1. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ Done |
 
 ---
 will update daily

@@ -91,6 +91,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **53** | Feb 03 | **The Heap** | SQL Recursive CTE | 1. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ✅ Done |
 | **54** | Feb 04 | **The Mirror** | SQL PIVOT | 1. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ Done |
 | **55** | Feb 05 | **The Climb** | SQL UNPIVOT | 1. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ✅ Done |
+| **56** | Feb 06 | **The Search** | SQL Sampling | 1. [Binary Search](https://leetcode.com/problems/binary-search/) | ✅ Done |
 
 ---
 will update daily

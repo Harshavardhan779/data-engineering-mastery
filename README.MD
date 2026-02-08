@@ -92,6 +92,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **54** | Feb 04 | **The Mirror** | SQL PIVOT | 1. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ Done |
 | **55** | Feb 05 | **The Climb** | SQL UNPIVOT | 1. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ✅ Done |
 | **56** | Feb 06 | **The Search** | SQL Sampling | 1. [Binary Search](https://leetcode.com/problems/binary-search/) | ✅ Done |
+| **57** | Feb 07 | **The Debugger** | SQL Approximate Quantiles | 1. [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ✅ Done |
 
 ---
 will update daily

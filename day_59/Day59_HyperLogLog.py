@@ -8,7 +8,7 @@ con.execute("CREATE TABLE clicks AS SELECT (range % 1000) + 1 as user_id FROM ra
 
 print("🛠️ Counting Unique Users (Approx vs Exact)...")
 
-# The Query:
+# The Query:-
 # 1. Exact Count (Slow, memory heavy)
 # 2. Approx Count (Fast, memory light, uses HLL)
 query = """

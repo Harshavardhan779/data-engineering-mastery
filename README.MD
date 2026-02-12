@@ -95,7 +95,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **57** | Feb 07 | **The Debugger** | SQL Approximate Quantiles | 1. [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ✅ Done |
 | **58** | Feb 09 | **The Flags** | SQL Bitwise Ops | 1. [Missing Number](https://leetcode.com/problems/missing-number/) | ✅ Done |
 | **59** | Feb 10 | **The Loner** | SQL HyperLogLog | 1. [Single Number](https://leetcode.com/problems/single-number/) | ✅ Done 
-| **60** | Feb 13 | **The Cycle** | SQL Recursive Safety | 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ✅ Done |
+| **60** | Feb 13 | **The Cycle** | SQL Recursive Safety | 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ✅ Done ||
 ---
 will update daily
 ## 📫 Connect

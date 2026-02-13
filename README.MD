@@ -96,6 +96,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **58** | Feb 09 | **The Flags** | SQL Bitwise Ops | 1. [Missing Number](https://leetcode.com/problems/missing-number/) | ✅ Done |
 | **59** | Feb 10 | **The Loner** | SQL HyperLogLog | 1. [Single Number](https://leetcode.com/problems/single-number/) | ✅ Done 
 | **60** | Feb 13 | **The Cycle** | SQL Recursive Safety | 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ✅ Done ||
+| **61** | Feb 14 | **The Intersection** | SQL INTERSECT / EXCEPT | 1. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

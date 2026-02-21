@@ -100,6 +100,8 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **62** | Feb 14 | **The Reversal** | SQL MERGE (Upsert) | 1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ Done |
 | **63** | Feb 16 | **The History** | SQL SCD Type 2 | 1. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | ✅ Done |
 | **64** | Feb 17 | **The Stack** | SQL Window Functions | 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Done |
+| **65** | Feb 19 | **The Leaderboard** | Pandas Ranking | 1. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ✅ Done |
+| **66** | Feb 20 | **The Sliding Window** | Pandas Rolling Averages | 1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

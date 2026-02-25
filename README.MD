@@ -102,8 +102,10 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **64** | Feb 17 | **The Stack** | SQL Window Functions | 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Done |
 | **65** | Feb 19 | **The Leaderboard** | Pandas Ranking | 1. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ✅ Done |
 | **66** | Feb 20 | **The Sliding Window** | Pandas Rolling Averages | 1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ✅ Done |
+| **69** | Feb 23 | **The Expanding Window** | Pandas JSON Normalize | 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ Done |
 | **67** | Feb 21 | **The Hash Map** | Pandas Transform (Partition) | 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ Done |
 | **68** | Feb 22 | **The Clone** | Pandas Deduplication | 1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ Done |
+| **70** | Feb 24 | **The Tree** | Parquet Columnar Storage | 1. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect

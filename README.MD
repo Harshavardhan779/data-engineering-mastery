@@ -107,6 +107,7 @@ This repository tracks my **4-Month Intensive Journey** (Dec 2025 - April 2026) 
 | **68** | Feb 22 | **The Clone** | Pandas Deduplication | 1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ Done |
 | **70** | Feb 24 | **The Tree** | Parquet Columnar Storage | 1. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ Done |
 | **71** | Feb 25 | **The Depth & The Directory** | Hive Partitioning | 1. [Max Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ Done |
+| **72** | Feb 26 | **The Twins & The Pruner** | DuckDB Partition Pruning | 1. [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ Done |
 ---
 will update daily
 ## 📫 Connect
